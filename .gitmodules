@@ -1,0 +1,3 @@
+[submodule "Chipmunk-js"]
+	path = Chipmunk-js
+	url = https://github.com/josephg/Chipmunk-js.git
